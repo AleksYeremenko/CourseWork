@@ -1,0 +1,48 @@
+C:\Users\Solo\Desktop\Курсовая\Курсовая\obj\Debug\Курсовая.csprojAssemblyReference.cache
+C:\Users\Solo\Desktop\Курсовая\Курсовая\obj\Debug\Курсовая.Start.resources
+C:\Users\Solo\Desktop\Курсовая\Курсовая\obj\Debug\Курсовая.MainFrm.resources
+C:\Users\Solo\Desktop\Курсовая\Курсовая\obj\Debug\Курсовая.Properties.Resources.resources
+C:\Users\Solo\Desktop\Курсовая\Курсовая\obj\Debug\Курсовая.csproj.GenerateResource.cache
+C:\Users\Solo\Desktop\Курсовая\Курсовая\obj\Debug\Курсовая.csproj.CoreCompileInputs.cache
+C:\Users\Solo\Desktop\Курсовая\Курсовая\bin\Debug\Курсовая.exe.config
+C:\Users\Solo\Desktop\Курсовая\Курсовая\bin\Debug\Курсовая.exe
+C:\Users\Solo\Desktop\Курсовая\Курсовая\bin\Debug\Курсовая.pdb
+C:\Users\Solo\Desktop\Курсовая\Курсовая\obj\Debug\Курсовая.exe
+C:\Users\Solo\Desktop\Курсовая\Курсовая\obj\Debug\Курсовая.pdb
+C:\Users\Solo\Desktop\Курсовая\Курсовая\obj\Debug\Курсовая.Theory.resources
+C:\Users\1\Downloads\Курсовая\Курсовая\bin\Debug\Курсовая.exe.config
+C:\Users\1\Downloads\Курсовая\Курсовая\bin\Debug\Курсовая.exe
+C:\Users\1\Downloads\Курсовая\Курсовая\bin\Debug\Курсовая.pdb
+C:\Users\1\Downloads\Курсовая\Курсовая\obj\Debug\Курсовая.csprojAssemblyReference.cache
+C:\Users\1\Downloads\Курсовая\Курсовая\obj\Debug\Курсовая.Start.resources
+C:\Users\1\Downloads\Курсовая\Курсовая\obj\Debug\Курсовая.MainFrm.resources
+C:\Users\1\Downloads\Курсовая\Курсовая\obj\Debug\Курсовая.Properties.Resources.resources
+C:\Users\1\Downloads\Курсовая\Курсовая\obj\Debug\Курсовая.Theory.resources
+C:\Users\1\Downloads\Курсовая\Курсовая\obj\Debug\Курсовая.csproj.GenerateResource.cache
+C:\Users\1\Downloads\Курсовая\Курсовая\obj\Debug\Курсовая.csproj.CoreCompileInputs.cache
+C:\Users\1\Downloads\Курсовая\Курсовая\obj\Debug\Курсовая.exe
+C:\Users\1\Downloads\Курсовая\Курсовая\obj\Debug\Курсовая.pdb
+C:\Users\1\3D Objects\Курсовая\Курсовая\bin\Debug\Курсовая.exe.config
+C:\Users\1\3D Objects\Курсовая\Курсовая\bin\Debug\Курсовая.exe
+C:\Users\1\3D Objects\Курсовая\Курсовая\bin\Debug\Курсовая.pdb
+C:\Users\1\3D Objects\Курсовая\Курсовая\obj\Debug\Курсовая.csprojAssemblyReference.cache
+C:\Users\1\3D Objects\Курсовая\Курсовая\obj\Debug\Курсовая.Start.resources
+C:\Users\1\3D Objects\Курсовая\Курсовая\obj\Debug\Курсовая.MainFrm.resources
+C:\Users\1\3D Objects\Курсовая\Курсовая\obj\Debug\Курсовая.Properties.Resources.resources
+C:\Users\1\3D Objects\Курсовая\Курсовая\obj\Debug\Курсовая.Theory.resources
+C:\Users\1\3D Objects\Курсовая\Курсовая\obj\Debug\Курсовая.csproj.GenerateResource.cache
+C:\Users\1\3D Objects\Курсовая\Курсовая\obj\Debug\Курсовая.csproj.CoreCompileInputs.cache
+C:\Users\1\3D Objects\Курсовая\Курсовая\obj\Debug\Курсовая.exe
+C:\Users\1\3D Objects\Курсовая\Курсовая\obj\Debug\Курсовая.pdb
+C:\Users\1\Music\Курсовая\Курсовая\Курсовая\bin\Debug\Курсовая.exe.config
+C:\Users\1\Music\Курсовая\Курсовая\Курсовая\bin\Debug\Курсовая.exe
+C:\Users\1\Music\Курсовая\Курсовая\Курсовая\bin\Debug\Курсовая.pdb
+C:\Users\1\Music\Курсовая\Курсовая\Курсовая\obj\Debug\Курсовая.csprojAssemblyReference.cache
+C:\Users\1\Music\Курсовая\Курсовая\Курсовая\obj\Debug\Курсовая.Start.resources
+C:\Users\1\Music\Курсовая\Курсовая\Курсовая\obj\Debug\Курсовая.MainFrm.resources
+C:\Users\1\Music\Курсовая\Курсовая\Курсовая\obj\Debug\Курсовая.Properties.Resources.resources
+C:\Users\1\Music\Курсовая\Курсовая\Курсовая\obj\Debug\Курсовая.Theory.resources
+C:\Users\1\Music\Курсовая\Курсовая\Курсовая\obj\Debug\Курсовая.csproj.GenerateResource.cache
+C:\Users\1\Music\Курсовая\Курсовая\Курсовая\obj\Debug\Курсовая.csproj.CoreCompileInputs.cache
+C:\Users\1\Music\Курсовая\Курсовая\Курсовая\obj\Debug\Курсовая.exe
+C:\Users\1\Music\Курсовая\Курсовая\Курсовая\obj\Debug\Курсовая.pdb

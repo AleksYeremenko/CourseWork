@@ -1,0 +1,84 @@
+C:\Users\1\Music\Випускна\Курсовая\Випускна\bin\Debug\Випускна.exe.config
+C:\Users\1\Music\Випускна\Курсовая\Випускна\bin\Debug\Випускна.exe
+C:\Users\1\Music\Випускна\Курсовая\Випускна\bin\Debug\Випускна.pdb
+C:\Users\1\Music\Випускна\Курсовая\Випускна\obj\Debug\Випускна.csprojAssemblyReference.cache
+C:\Users\1\Music\Випускна\Курсовая\Випускна\obj\Debug\Випускна.Start.resources
+C:\Users\1\Music\Випускна\Курсовая\Випускна\obj\Debug\Випускна.MainFrm.resources
+C:\Users\1\Music\Випускна\Курсовая\Випускна\obj\Debug\Випускна.Properties.Resources.resources
+C:\Users\1\Music\Випускна\Курсовая\Випускна\obj\Debug\Випускна.Theory.resources
+C:\Users\1\Music\Випускна\Курсовая\Випускна\obj\Debug\Випускна.csproj.GenerateResource.cache
+C:\Users\1\Music\Випускна\Курсовая\Випускна\obj\Debug\Випускна.csproj.CoreCompileInputs.cache
+C:\Users\1\Music\Випускна\Курсовая\Випускна\obj\Debug\Випускна.exe
+C:\Users\1\Music\Випускна\Курсовая\Випускна\obj\Debug\Випускна.pdb
+C:\Users\1\Music\Випускна\Випускна\obj\Debug\Випускна.csprojAssemblyReference.cache
+C:\Users\1\Music\Випускна\Випускна\obj\Debug\Випускна.Start.resources
+C:\Users\1\Music\Випускна\Випускна\obj\Debug\Випускна.MainFrm.resources
+C:\Users\1\Music\Випускна\Випускна\obj\Debug\Випускна.Properties.Resources.resources
+C:\Users\1\Music\Випускна\Випускна\obj\Debug\Випускна.Theory.resources
+C:\Users\1\Music\Випускна\Випускна\obj\Debug\Випускна.csproj.GenerateResource.cache
+C:\Users\1\Music\Випускна\Випускна\obj\Debug\Випускна.csproj.CoreCompileInputs.cache
+C:\Users\1\Music\Випускна\Випускна\obj\Debug\Випускна.exe
+C:\Users\1\Music\Випускна\Випускна\obj\Debug\Випускна.pdb
+C:\Users\1\Music\Випускна\Випускна\bin\Debug\Випускна.exe.config
+C:\Users\1\Music\Випускна\Випускна\bin\Debug\Випускна.exe
+C:\Users\1\Music\Випускна\Випускна\bin\Debug\Випускна.pdb
+C:\Users\adminmodroot\Downloads\Випускна\Випускна\bin\Debug\Випускна.exe.config
+C:\Users\adminmodroot\Downloads\Випускна\Випускна\bin\Debug\Випускна.exe
+C:\Users\adminmodroot\Downloads\Випускна\Випускна\bin\Debug\Випускна.pdb
+C:\Users\adminmodroot\Downloads\Випускна\Випускна\obj\Debug\Випускна.csprojAssemblyReference.cache
+C:\Users\adminmodroot\Downloads\Випускна\Випускна\obj\Debug\Випускна.Start.resources
+C:\Users\adminmodroot\Downloads\Випускна\Випускна\obj\Debug\Випускна.MainFrm.resources
+C:\Users\adminmodroot\Downloads\Випускна\Випускна\obj\Debug\Випускна.Properties.Resources.resources
+C:\Users\adminmodroot\Downloads\Випускна\Випускна\obj\Debug\Випускна.Theory.resources
+C:\Users\adminmodroot\Downloads\Випускна\Випускна\obj\Debug\Випускна.csproj.GenerateResource.cache
+C:\Users\adminmodroot\Downloads\Випускна\Випускна\obj\Debug\Випускна.csproj.CoreCompileInputs.cache
+C:\Users\adminmodroot\Downloads\Випускна\Випускна\obj\Debug\Випускна.exe
+C:\Users\adminmodroot\Downloads\Випускна\Випускна\obj\Debug\Випускна.pdb
+C:\Users\1\Downloads\Випускна\Випускна\bin\Debug\Випускна.exe.config
+C:\Users\1\Downloads\Випускна\Випускна\bin\Debug\Випускна.exe
+C:\Users\1\Downloads\Випускна\Випускна\bin\Debug\Випускна.pdb
+C:\Users\1\Downloads\Випускна\Випускна\obj\Debug\Випускна.csprojAssemblyReference.cache
+C:\Users\1\Downloads\Випускна\Випускна\obj\Debug\Випускна.Start.resources
+C:\Users\1\Downloads\Випускна\Випускна\obj\Debug\Випускна.MainFrm.resources
+C:\Users\1\Downloads\Випускна\Випускна\obj\Debug\Випускна.Properties.Resources.resources
+C:\Users\1\Downloads\Випускна\Випускна\obj\Debug\Випускна.Theory.resources
+C:\Users\1\Downloads\Випускна\Випускна\obj\Debug\Випускна.csproj.GenerateResource.cache
+C:\Users\1\Downloads\Випускна\Випускна\obj\Debug\Випускна.csproj.CoreCompileInputs.cache
+C:\Users\1\Downloads\Випускна\Випускна\obj\Debug\Випускна.exe
+C:\Users\1\Downloads\Випускна\Випускна\obj\Debug\Випускна.pdb
+C:\Users\1\3D Objects\Випускна\Випускна\Випускна\bin\Debug\Випускна.exe.config
+C:\Users\1\3D Objects\Випускна\Випускна\Випускна\bin\Debug\Випускна.exe
+C:\Users\1\3D Objects\Випускна\Випускна\Випускна\bin\Debug\Випускна.pdb
+C:\Users\1\3D Objects\Випускна\Випускна\Випускна\obj\Debug\Випускна.csprojAssemblyReference.cache
+C:\Users\1\3D Objects\Випускна\Випускна\Випускна\obj\Debug\Випускна.Start.resources
+C:\Users\1\3D Objects\Випускна\Випускна\Випускна\obj\Debug\Випускна.MainFrm.resources
+C:\Users\1\3D Objects\Випускна\Випускна\Випускна\obj\Debug\Випускна.Properties.Resources.resources
+C:\Users\1\3D Objects\Випускна\Випускна\Випускна\obj\Debug\Випускна.Theory.resources
+C:\Users\1\3D Objects\Випускна\Випускна\Випускна\obj\Debug\Випускна.csproj.GenerateResource.cache
+C:\Users\1\3D Objects\Випускна\Випускна\Випускна\obj\Debug\Випускна.csproj.CoreCompileInputs.cache
+C:\Users\1\3D Objects\Випускна\Випускна\Випускна\obj\Debug\Випускна.exe
+C:\Users\1\3D Objects\Випускна\Випускна\Випускна\obj\Debug\Випускна.pdb
+D:\Випускна\Випускна\bin\Debug\Випускна.exe.config
+D:\Випускна\Випускна\bin\Debug\Випускна.exe
+D:\Випускна\Випускна\bin\Debug\Випускна.pdb
+D:\Випускна\Випускна\obj\Debug\Випускна.csprojAssemblyReference.cache
+D:\Випускна\Випускна\obj\Debug\Випускна.Start.resources
+D:\Випускна\Випускна\obj\Debug\Випускна.MainFrm.resources
+D:\Випускна\Випускна\obj\Debug\Випускна.Properties.Resources.resources
+D:\Випускна\Випускна\obj\Debug\Випускна.Theory.resources
+D:\Випускна\Випускна\obj\Debug\Випускна.csproj.GenerateResource.cache
+D:\Випускна\Випускна\obj\Debug\Випускна.csproj.CoreCompileInputs.cache
+D:\Випускна\Випускна\obj\Debug\Випускна.exe
+D:\Випускна\Випускна\obj\Debug\Випускна.pdb
+C:\Users\1\Downloads\Випускна_Єременко\Випускна\Випускна\bin\Debug\Випускна.exe.config
+C:\Users\1\Downloads\Випускна_Єременко\Випускна\Випускна\bin\Debug\Випускна.exe
+C:\Users\1\Downloads\Випускна_Єременко\Випускна\Випускна\bin\Debug\Випускна.pdb
+C:\Users\1\Downloads\Випускна_Єременко\Випускна\Випускна\obj\Debug\Випускна.csprojAssemblyReference.cache
+C:\Users\1\Downloads\Випускна_Єременко\Випускна\Випускна\obj\Debug\Випускна.Start.resources
+C:\Users\1\Downloads\Випускна_Єременко\Випускна\Випускна\obj\Debug\Випускна.MainFrm.resources
+C:\Users\1\Downloads\Випускна_Єременко\Випускна\Випускна\obj\Debug\Випускна.Properties.Resources.resources
+C:\Users\1\Downloads\Випускна_Єременко\Випускна\Випускна\obj\Debug\Випускна.Theory.resources
+C:\Users\1\Downloads\Випускна_Єременко\Випускна\Випускна\obj\Debug\Випускна.csproj.GenerateResource.cache
+C:\Users\1\Downloads\Випускна_Єременко\Випускна\Випускна\obj\Debug\Випускна.csproj.CoreCompileInputs.cache
+C:\Users\1\Downloads\Випускна_Єременко\Випускна\Випускна\obj\Debug\Випускна.exe
+C:\Users\1\Downloads\Випускна_Єременко\Випускна\Випускна\obj\Debug\Випускна.pdb
