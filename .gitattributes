@@ -8,3 +8,5 @@
 *.js linguist-generated
 *.woff linguist-generated
 *.woff2 linguist-generated
+* linguist-detectable=false
+*.cs linguist-detectable=true
