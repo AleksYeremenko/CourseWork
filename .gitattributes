@@ -1,0 +1,10 @@
+*.Designer.cs linguist-generated
+*.resx linguist-generated
+*.resources linguist-generated
+*.html linguist-generated
+*.xml linguist-generated
+*.xaml linguist-generated
+*.css linguist-generated
+*.js linguist-generated
+*.woff linguist-generated
+*.woff2 linguist-generated
